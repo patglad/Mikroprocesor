@@ -1,0 +1,1 @@
+INT 1A >> nieobsługiwana funkcja lub błędne parametry: 3H <<
