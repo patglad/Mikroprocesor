@@ -1,3 +1,3 @@
 # Mikroprocesor
 Aplikacja - edukacyjny model mikroprocesora.
-![](mikroproc.PNG)
+![](Mikroprocesor/mikroproc.PNG)
